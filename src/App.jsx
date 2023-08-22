@@ -17,7 +17,7 @@ import router from './routes';
 function App() {
   return (
     <div className="App">
-      <h1>안녕</h1>
+      <RouterProvider router={router} />
     </div>
   );
 }
