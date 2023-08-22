@@ -1,8 +1,3 @@
-
-function HeaderBar() {
-  return (
-   
-  );
-}
+function HeaderBar() {}
 
 export default HeaderBar;

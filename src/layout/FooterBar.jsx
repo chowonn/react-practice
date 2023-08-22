@@ -1,11 +1,3 @@
-
-
-function FooterBar() {
- 
-
-  return (
-   
-  );
-}
+function FooterBar() {}
 
 export default FooterBar;
